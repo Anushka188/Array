@@ -1,0 +1,4 @@
+student Id =101
+student name = rony
+student city = pune
+
